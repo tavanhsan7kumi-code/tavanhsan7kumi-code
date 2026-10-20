@@ -1,20 +1,18 @@
-## Hi there 👋
-
-# Hi I'm SENGTAVANH
+## Hi I'm SENGTAVANH
 I am studying in Japan's University right now
-I will be graduated from this university in two years
-Before graduate I want to be Fullstack Developer
+I will graduate from this university in two years
+Before I graduate I want to be Fullstack Developer
 
 ## Right now I learn coding:
 HTML, CSS , JavaScript
 
-## Goal:
-Become Fullstack developer before graduate
-Coding every single day
+## Goal
+- Become a Fullstack Developer before I graduate
+- Code every single day
 
-## Interested :
-Following Technologies News
-Ai
+## Interests :
+- Following Technologies News
+- Ai
 
 ## Contact:
 Email: tavanhsan7kumi@gmail.com
