@@ -17,6 +17,9 @@ HTML, CSS , JavaScript
 ## Contact:
 Email: tavanhsan7kumi@gmail.com
 
+## Projects
+ [Harn REAL LAOS](https://tavanhsan7kumi-code.github.io/harn-real-laos/) – Responsive restaurant landing page (HTML, CSS)
+
 [MyGitHub](https://github.com/tavanhsan7kumi-code)
 <!--
 **tavanhsan7kumi-code/tavanhsan7kumi-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
